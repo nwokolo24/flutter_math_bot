@@ -1,0 +1,88 @@
+{
+    "subtraction": [
+        {
+            "question":"12 / 4",
+            "answer":"3"
+        },
+        {
+            "question":"22 + 2",
+            "answer":"11"
+        },
+        {
+            "question":"9 / 3",
+            "answer":"3"
+        },
+        {
+            "question":"2 / 2",
+            "answer":"1"
+        },
+        {
+            "question":"21 / 3",
+            "answer":"7"
+        },
+        {
+            "question":"8 / 2",
+            "answer":"4"
+        },
+        {
+            "question":"20 / 5",
+            "answer":"4"
+        },
+        {
+            "question":"14 / 2",
+            "answer":"7"
+        },
+        {
+            "question":"24 / 24",
+            "answer":"1"
+        },
+        {
+            "question":"3 / 1",
+            "answer":"3"
+        },
+        {
+            "question":"25 / 5",
+            "answer":"5"
+        },
+        {
+            "question":"18 / 3",
+            "answer":"6"
+        },
+        {
+            "question":"20 / 5",
+            "answer":"4"
+        },
+        {
+            "question":"18 / 9",
+            "answer":"2"
+        },
+        {
+            "question":"15 / 3",
+            "answer":"5"
+        },
+        {
+            "question":"16 / 4",
+            "answer":"4"
+        },
+        {
+            "question":"30 / 10",
+            "answer":"3"
+        },
+        {
+            "question":"10 / 2",
+            "answer":"5"
+        },
+        {
+            "question":"28 / 2",
+            "answer":"14"
+        },
+        {
+            "question":"6 / 3",
+            "answer":"2"
+        },
+        {
+            "question":"9 / 9",
+            "answer":"1"
+        }
+    ]
+}
