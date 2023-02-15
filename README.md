@@ -30,7 +30,7 @@ Newest version 2.18.x as of 10/9/2022
 ### Team lead: John Stennett
 ### Project Manager: Mike Downs
 ### Quality Assurance: Joseph Kaku
-### Congiguration Manager: Bueze Nwokolo
+### Configuration Manager: Bueze Nwokolo
 ### Graphics Designer: Eli Murdock
 ### Documentation: Tyler Shaw
 
